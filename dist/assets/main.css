@@ -64,7 +64,7 @@ input, select {
   vertical-align: middle; }
 
 body {
-  color: #634f7d;
+  color: #00000;
   margin: 0;
   padding: 0;
   font-family: "Open Sans", Arial, sans-serif;
@@ -151,7 +151,7 @@ a {
         margin-left: 4em;
         text-align: center; } }
     .navigator .logo img {
-      max-width: 15em; }
+      max-width: 14em; }
       @media all and (max-width: 768px) {
         .navigator .logo img {
           height: 50px; } }
