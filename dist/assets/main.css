@@ -825,7 +825,8 @@ section.footer p {
   float:left;
 }
 .img-gal{
-  width: 100%;
+  width: 325px;
+  height: 200px;
   transition-duration: .3s;
   max-width: 100%;
   display:block;
