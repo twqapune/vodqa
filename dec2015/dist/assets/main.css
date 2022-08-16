@@ -82,9 +82,9 @@ body {
       margin: 0 auto;
       padding: 0 .5em 1em 0;
       clear: both; }
-      @media all and (min-width: 1024px) {
+      @media all and (min-width: 75%) {
         body > section > .content {
-          width: 1024px;
+          width: 75%;
           padding: 0.25em; } }
 
 sup {
@@ -514,7 +514,7 @@ section.speakers {
   box-sizing: border-box;
   float: left;
   text-align: center;
-  width: 33%;
+  width: 25%;
   padding: 15px; }
   .speaker-block:after {
     content: "";
